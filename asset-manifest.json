@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pay-2-need/static/css/main.ed3ab733.css",
+    "main.js": "/pay-2-need/static/js/main.77121106.js",
+    "static/js/787.b9b4b972.chunk.js": "/pay-2-need/static/js/787.b9b4b972.chunk.js",
+    "static/media/pic6.jpg": "/pay-2-need/static/media/pic6.16f0a67966b15b6daabe.jpg",
+    "static/media/pic7.jpg": "/pay-2-need/static/media/pic7.51def754123a74f44e58.jpg",
+    "static/media/pic3.jpg": "/pay-2-need/static/media/pic3.50ebc52cc27a961a4d8b.jpg",
+    "static/media/pic5.jpg": "/pay-2-need/static/media/pic5.87b3e5db4f274db0816d.jpg",
+    "static/media/pic2.jpg": "/pay-2-need/static/media/pic2.ecd3189964d521644362.jpg",
+    "static/media/pic8.jpg": "/pay-2-need/static/media/pic8.9139d0debbc08d4df402.jpg",
+    "static/media/onlinegif.gif": "/pay-2-need/static/media/onlinegif.dfb87e213ad8d036bf43.gif",
+    "static/media/pic4.jpg": "/pay-2-need/static/media/pic4.e4d3a373c607c4f71f01.jpg",
+    "static/media/pic1.jpg": "/pay-2-need/static/media/pic1.d678e821ca0a46ce32e4.jpg",
+    "static/media/pic9.jpg": "/pay-2-need/static/media/pic9.c0e934f6c875678701cc.jpg",
+    "static/media/pic10.jpg": "/pay-2-need/static/media/pic10.971d690b800b5e301771.jpg",
+    "static/media/christiann-koepke-7HUDNDNkxRk-unsplash.jpg": "/pay-2-need/static/media/christiann-koepke-7HUDNDNkxRk-unsplash.6025e09ecf6791abda9b.jpg",
+    "static/media/clay-banks-c2a0TydMlAs-unsplash.jpg": "/pay-2-need/static/media/clay-banks-c2a0TydMlAs-unsplash.555ff26867e78b9ed3c0.jpg",
+    "static/media/coin5.png": "/pay-2-need/static/media/coin5.19e86d04891adc01b9c2.png",
+    "static/media/background.jpg": "/pay-2-need/static/media/background.4e9401bc2db28f0baafd.jpg",
+    "static/media/pancard.png": "/pay-2-need/static/media/pancard.ad7353881be83fca1518.png",
+    "static/media/coin4.jpg": "/pay-2-need/static/media/coin4.04b94245a2d360a5da1f.jpg",
+    "static/media/logo.png": "/pay-2-need/static/media/logo.f06dbb6c7b5105799d71.png",
+    "static/media/payimg.jpg": "/pay-2-need/static/media/payimg.3d2ce824ac4fcda6444c.jpg",
+    "static/media/coin3.jpg": "/pay-2-need/static/media/coin3.87021ea761dabad402f6.jpg",
+    "static/media/verification.png": "/pay-2-need/static/media/verification.7a26cd9b740525a06ffc.png",
+    "static/media/money.png": "/pay-2-need/static/media/money.80077ffc221792ee6207.png",
+    "static/media/aadharpay.png": "/pay-2-need/static/media/aadharpay.1dbd79d7b8e6dbe5ec20.png",
+    "static/media/billpayment.png": "/pay-2-need/static/media/billpayment.2526c892b525863fd24e.png",
+    "static/media/star4.jpg": "/pay-2-need/static/media/star4.9e249a73ca4079a54318.jpg",
+    "static/media/coin2.jfif": "/pay-2-need/static/media/coin2.879e3578ebdc24139dfa.jfif",
+    "static/media/coin1.jfif": "/pay-2-need/static/media/coin1.0c6e64b10a5ce9c326cd.jfif",
+    "index.html": "/pay-2-need/index.html",
+    "main.ed3ab733.css.map": "/pay-2-need/static/css/main.ed3ab733.css.map",
+    "main.77121106.js.map": "/pay-2-need/static/js/main.77121106.js.map",
+    "787.b9b4b972.chunk.js.map": "/pay-2-need/static/js/787.b9b4b972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3ab733.css",
+    "static/js/main.77121106.js"
+  ]
+}
