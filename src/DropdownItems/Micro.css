@@ -1,0 +1,62 @@
+.micro-heder{
+    /* color: white; */
+    font-weight: 8rem;
+    text-transform: uppercase;
+    position: relative;
+    font-size: -webkit-xxx-large;
+    margin-top: -6rem;
+    color:  #ffdd40;
+    /* background-color: gold; */
+}
+.micro-heder::before{
+    content: "~Micro.Atm~";
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-right: 0.3rem solid #fff;
+    animation: slider 3s linear infinite;
+    -webkit-animation: slidebar2 3s linear infinite ;
+    overflow: hidden;
+}
+.micro-content{
+    padding: 3rem;
+}
+.micro-content p{
+    font-size: larger;
+}
+@keyframes slidebar2 {
+    0%{
+width: 0%;
+    }
+    50%{
+        width: 100%; 
+    }
+    100%{
+        width: 0%;
+    }
+}
+@media (max-width:740px){
+    .micro-heder::before{
+        color: blue;
+    } 
+    .upper-svg {
+        background-color: #0f51322b;
+    }
+    .Apes{
+        background-color: #fff;
+        position: relative;
+        /* left: 1rem; */
+        top: 4rem;
+        font-size: small;
+    }
+    .micro-content {
+        padding-top: 4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .micro-content p{
+        font-size: larger;
+    }
+}

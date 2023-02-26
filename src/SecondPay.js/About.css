@@ -1,0 +1,77 @@
+.about-box{
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: white;
+}
+.about-content{
+    position: relative;
+    /* width:50vw; */
+    margin: 1rem;
+}
+.about-img{
+width: 60vw;
+height: 100vh;
+margin-top: 3rem;
+}
+.icon{
+    display: flex;
+}
+.icon1{
+    width: 4rem;
+    height: 3rem;
+}
+.about-customer{
+    color:green;
+}
+.about-page {
+    font-family: inherit;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.about-content p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width:760px){
+    .about-box{
+        /* display: flex; */
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+    .about-img{
+        width: 70vw;
+        height: 40vh;
+        /* display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        text-align: center; */
+        margin-top: 0;
+        }
+}
+@media (max-width:960px){
+   .about-img {
+    width: 45vh;
+    height: 50vh;
+    /* margin-top: 3rem; */
+}
+.about-page {
+    text-align: center;
+}
+.about-box{
+    /* display: flex; */
+    background: rgb(0 0 0 / 8%);
+}
+.about-content p{
+    margin-top: 0;
+text-align: center;
+}
+
+}

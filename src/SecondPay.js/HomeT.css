@@ -1,0 +1,113 @@
+/* .gif{
+    width:15rem;
+    height:13rem;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: rgb(50, 205, 66);
+} */
+/* header{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 10000;
+} */
+/* .slider-img{
+    position: relative;
+    width: 50%;
+    top:-9rem;
+    left:0;
+    height:50%;
+    object-fit: cover;
+} */
+img.pic{
+    width:100%;
+    /* width:50vw; */
+    height:100%;
+}
+.slider{
+    position:relative;
+    width:100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-image: url("../image/onlinegif.gif"); 
+     background-repeat: no-repeat;
+     background-size: cover;
+    /* background: #000; */
+}
+.slider .imgBx{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    padding: 100px;
+    padding-right: 3rem;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    transition-delay: 0s;
+    z-index: 1;
+    clip-path: circle(0px at center);
+}
+.slider input[type="radio"]:checked + .imgBx {
+    z-index: 10;
+    clip-path: circle(1000px at center);
+    transition-delay: 0.40s;
+}
+.slider .imgBx img{
+    /* position: absolute; */
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    object-fit: cover;
+ 
+}
+.slider .imgBx .content{
+    position: relative;
+    text-align: center;
+    max-width: 800px;
+}
+.slider .imgBx .content h2{
+    font-size: 4rem;
+    line-height: 1rem;
+    color:white;
+}
+/* .slider .imgBx .content p{
+    font-size: 1rem;
+    line-height: 1rem;
+    color:white;
+}
+.slider .imgBx .content a{
+    position: relative;
+    display: inline-block;
+    background: white;
+    padding: 10px 30px;
+    color:#111;
+    font-weight: 500;
+    margin-top: 20px;
+    text-decoration: none;
+} */
+.slider input[type="radio"] {
+    position: relative;
+    z-index: 1000;
+    margin: 5px;
+    margin-bottom: 90px;
+    outline: none;
+    cursor: pointer;
+ 
+}
